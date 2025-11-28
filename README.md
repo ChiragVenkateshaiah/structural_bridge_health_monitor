@@ -46,3 +46,6 @@ The final output is an append-only, production-ready Gold table delivering a uni
 - The entire Lakeflow DLT pipeline is declarative, incremental, and processes only new or changed data.
 - Implements full Medallion Architecture on Unity Catalog:
   Landing → Bronze → Silver → Gold
+
+
+This project highlights core data engineering capabilities, including streaming ingestion, declarative pipeline design, data quality management, incremental processing, and advanced time-series aggregations—all implemented using Databricks Lakeflow on a governed Unity Catalog environment.
